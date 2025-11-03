@@ -18,7 +18,7 @@ The project showcases how to build scalable, cloud-native data pipelines and han
 
 ## Architecture
 Sensors → Kafka → Spark Streaming → AWS S3 / Redshift → Analysis / Visualization
-<img width="1385" height="554" alt="image" src="https://github.com/user-attachments/assets/98d0e05e-7eb9-4584-be43-61c85b226018" />
+<img width="800" height="306" alt="image" src="https://github.com/user-attachments/assets/19151f75-40fc-4171-80e2-6e6922db33cd" />
 
 **Key components:**
 
